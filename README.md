@@ -1,9 +1,5 @@
 # movei-app
 
-![alt text](https://github.com/stevenwickers/movie-app/blob/master/Images/MovieApp.png)
-![alt text](https://github.com/stevenwickers/movie-app/blob/master/Images/MovieAppPopup.png)
-
-
 <p>
 <b>Movie Application</b> is an example of React / Redux
 </p>
