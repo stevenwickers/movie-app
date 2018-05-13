@@ -1,7 +1,7 @@
 # movei-app
 
-![alt text](http://gravytraining.azurewebsites.net/Images/GravyCodingPattern.png)
-![alt text](http://gravytraining.azurewebsites.net/Images/mrc_overview.png)
+![alt text](https://github.com/stevenwickers/movie-app/blob/master/Images/MovieApp.png)
+![alt text](https://github.com/stevenwickers/movie-app/blob/master/Images/MovieAppPopup.png)
 
 
 <p>
@@ -11,3 +11,11 @@
 <p><h1>Guide</h1></p>
 <p><b>1. install</b> npm install<p>
 <p><b>2. start</b> npm start<p>
+
+<p align="center">
+   <img src="https://github.com/stevenwickers/movie-app/blob/master/Images/MovieApp.png" />
+</p>
+
+<p align="center">
+   <img src="https://github.com/stevenwickers/movie-app/blob/master/Images/MovieAppPopup.png" />
+</p>
