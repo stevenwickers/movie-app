@@ -18,7 +18,7 @@
 
 <p><h1>GraVy</h1></p>
 <p>Also please checkout GraVy a coding pattern for React / Redux</p>
-<p><a href='https://github.com/stevenwickers/gravy-app'>gravy-app</a></p>
+<p><a href='https://github.com/stevenwickers/gravy-app' target='_blank'>gravy-app</a></p>
 
 
 ![alt text](http://gravytraining.azurewebsites.net/Images/GravyCodingPattern.png)
