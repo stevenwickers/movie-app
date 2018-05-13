@@ -178,9 +178,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="540" />
     <option name="width" value="1440" />
-    <option name="height" value="836" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -280,12 +279,12 @@
       <workItem from="1526210704250" duration="369000" />
       <workItem from="1526211286682" duration="1141000" />
       <workItem from="1526224935414" duration="11431000" />
-      <workItem from="1526239429640" duration="1543000" />
+      <workItem from="1526239429640" duration="1658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33130000" />
+    <option name="totallyTimeSpent" value="33245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
