@@ -1,0 +1,20 @@
+/*APS BUTTON COLORS */
+#activeButton{
+    border-radius:6px;
+}
+
+.movies-page-item-active{
+    background-color: #3CB6E5 !important;
+    border-color: #3CB6E5 !important;
+}
+
+.member-page-item-active{
+    background-color: #A487BA !important;
+    border-color: #A487BA !important;
+}
+
+.badMovies-page-item-active{
+    background-color: #7CB82F !important;
+    border-color: #7CB82F !important;
+}
+

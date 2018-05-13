@@ -1,0 +1,20 @@
+.rc-calendar{
+    position: absolute;
+}
+
+.rc-calendar-date-panel{
+    font-size: large;
+}
+
+.rc-calendar-header{
+    background-color: darkgray;
+    text-align: center;
+}
+
+.rc-calendar-table{
+    margin-bottom: 0 !important;
+}
+
+.rc-calendar-footer{
+    background-color: darkgray;
+}

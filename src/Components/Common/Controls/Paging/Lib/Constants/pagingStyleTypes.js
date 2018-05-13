@@ -1,0 +1,9 @@
+export const movies = 'movie-page-item-active';
+export const ManualAdj = 'manualAdj-page-item-active';
+export const Processing = 'processing-page-item-active';
+export const Administration = 'administration-page-item-active';
+export const Arrangements = 'arrangements-page-item-active';
+export const Reports = 'reports-page-item-active';
+export const ArrangementRateRule = 'arrangement-rate-rule-page-item-active';
+export const ArrangementMemberRule = 'arrangement-member-rule-page-item-active';
+export const ArrangementPayee = 'arrangement-payee-page-item-active';

@@ -1,0 +1,53 @@
+.pagination{
+    margin: 0 !important;
+}
+
+.pagination a {
+    margin: 0 4px;
+    border-radius: 4px;
+}
+
+.li{
+    font-size: medium;
+    padding: 0;
+}
+
+.pagination>li {
+    display: inline;
+    font-size: medium;
+    padding: 0;
+}
+
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius:6px;
+}
+
+.chevronStyle{
+    color: #737577 !important;
+}
+
+.activeButtonLink{
+    color: white !important;
+
+}
+
+.disabledLink {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.6;
+    border: none !important;
+}
+
+.ellipseButton{
+    background-color: rgba(0,0,0,0) !important;
+}
+
+

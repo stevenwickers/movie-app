@@ -1,0 +1,25 @@
+.panel{
+    padding: 0 !important;
+    background-color: #1779ba;
+}
+
+.panel-header{
+    padding:15px;
+    font-size: 24pt;
+    color:white;
+}
+
+
+.panel-body{
+    padding: 15px;
+    background-color: #DDDDDB;
+}
+
+.panel-footer{
+
+}
+
+/*
+.panel-border{
+    border: 1px solid #1779ba;
+}*/
