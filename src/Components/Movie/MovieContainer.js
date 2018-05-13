@@ -102,6 +102,7 @@ class MovieContainer extends React.Component{
         return(
             <div>
 
+
                 <div style={displayPopup}>
 
                    <AddEditMoviePopup model={this.state.movieItem}
